@@ -53,7 +53,7 @@ sakuratasks/
 
 
 ## 📸 Preview
-![Task Manager Screenshot](screenshot.png)
+![Task Manager Screenshot](Screenshot.png)
 
 
 ---
