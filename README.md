@@ -53,7 +53,7 @@ sakuratasks/
 
 
 ## 📸 Preview
-![Uploading Screenshot 2026-05-25 141904.png…]()
+![Task Manager Screenshot](screenshot.png)
 
 
 ---
