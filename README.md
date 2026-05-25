@@ -52,6 +52,10 @@ sakuratasks/
 └── sakuratasks.db
 
 
+## 📸 Preview
+![Uploading Screenshot 2026-05-25 141904.png…]()
+
+
 ---
 
 ## ⚙️ Installation & Setup
